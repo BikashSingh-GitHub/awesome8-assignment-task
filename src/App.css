@@ -8,6 +8,7 @@
   font-size: 10px;
   margin-left: 8px;
   font-weight: bold;
+  margin-bottom: 5px;
 }
 
 /* Add spacing between buttons */
@@ -48,5 +49,123 @@
   .button-style {
     width: 30px;
     height: 10px;
+  }
+}
+.text-sm {
+  font-size: 10px;
+}
+
+@media (min-width: 640px) {
+  .text-sm {
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 768px) {
+  .text-sm {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .text-sm {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .text-sm {
+    font-size: 22px;
+  }
+}
+
+@media (min-width: 1536px) {
+  .text-sm {
+    font-size: 24px;
+  }
+}
+.app{
+  justify-content: center;
+  text-align: center;
+  display: block;
+  margin-left: 10px;
+}
+.setimage{
+  position: relative;
+}
+.imageset{
+  
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  text-align: center;
+  padding: 20px;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.centered{
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.headingtext {
+  text-align: center;
+}
+
+@media (max-width: 767px) {
+  .headingtext {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .headingtext {
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1279px) {
+  .headingtext {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .headingtext {
+    font-size: 22px;
+  }
+}
+..headingtext1 {
+  text-align: center;
+  font-size: 18px;
+}
+
+@media (max-width: 767px) {
+  .headingtext1 {
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .headingtext1 {
+    font-size: 22px;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1279px) {
+  .headingtext1 {
+    font-size: 24px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .headingtext1 {
+    font-size: 28px;
   }
 }
