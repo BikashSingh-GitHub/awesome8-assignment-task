@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/BikashSingh-GitHub/awesome8-assignment-task/static/css/main.757fcd5c.css",
-    "main.js": "/BikashSingh-GitHub/awesome8-assignment-task/static/js/main.e2f391d7.js",
+    "main.css": "/BikashSingh-GitHub/awesome8-assignment-task/static/css/main.d40e1ade.css",
+    "main.js": "/BikashSingh-GitHub/awesome8-assignment-task/static/js/main.cb951706.js",
     "static/js/787.2f6e9733.chunk.js": "/BikashSingh-GitHub/awesome8-assignment-task/static/js/787.2f6e9733.chunk.js",
     "index.html": "/BikashSingh-GitHub/awesome8-assignment-task/index.html",
-    "main.757fcd5c.css.map": "/BikashSingh-GitHub/awesome8-assignment-task/static/css/main.757fcd5c.css.map",
-    "main.e2f391d7.js.map": "/BikashSingh-GitHub/awesome8-assignment-task/static/js/main.e2f391d7.js.map",
+    "main.d40e1ade.css.map": "/BikashSingh-GitHub/awesome8-assignment-task/static/css/main.d40e1ade.css.map",
+    "main.cb951706.js.map": "/BikashSingh-GitHub/awesome8-assignment-task/static/js/main.cb951706.js.map",
     "787.2f6e9733.chunk.js.map": "/BikashSingh-GitHub/awesome8-assignment-task/static/js/787.2f6e9733.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.757fcd5c.css",
-    "static/js/main.e2f391d7.js"
+    "static/css/main.d40e1ade.css",
+    "static/js/main.cb951706.js"
   ]
 }
